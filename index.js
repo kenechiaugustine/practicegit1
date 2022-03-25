@@ -9,5 +9,15 @@ console.log('Kene made some change')
 
 
 
-console.log('Hi this is james branch and first commit')
-console.log('James changes and implementation')
+
+
+
+
+
+
+
+
+
+console.log('Kene has modified the ultimate modification !!!')
+console.log('Kene has modified the ultimate modification !!!')
+console.log('Kene has modified the ultimate modification !!!')
